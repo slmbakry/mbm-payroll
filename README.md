@@ -1,6 +1,6 @@
 # MBM Payroll
 
-Published build of MBM Payroll (v2.2).
+Published build of MBM Payroll (v2.2.1).
 
 Live: https://mbm-payroll.vercel.app
 
